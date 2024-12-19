@@ -11,5 +11,5 @@ def multiply(a, b):
 
 def divide(a, b):
     # return 0;
-    return a / b
+    return 0
 
